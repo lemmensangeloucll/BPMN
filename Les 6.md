@@ -1,7 +1,4 @@
 # Oefeningen
-
-
-
 ## Oefening 1
 
 Ik ben aan het studeren. Wanneer ik hiermee klaar ben controleer ik al mijn nieuwe emails.
@@ -14,5 +11,5 @@ Ik ben aan het studeren. Telkens er een nieuwe email binnenkomt controleer ik de
 ### Oplossing
 > De oplossing is nog niet gemaakt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAxMTg4NDddfQ==
+eyJoaXN0b3J5IjpbNTg4Mjc3NTc5XX0=
 -->
