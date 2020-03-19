@@ -1,6 +1,6 @@
 # Les 6 (Level 2)
 ## Oefening van vorige les thuis afmaken
-
+![Thuisopdracth van vorige les oplossing](https://github.com/lemmensangeloucll/BPMN/blob/master/img/thuisopdrachtles6.png)
 ## Oefening 1
 
 Ik ben aan het studeren. Wanneer ik hiermee klaar ben controleer ik al mijn nieuwe emails.
@@ -35,6 +35,6 @@ Business procesinformatie:
 ### Oplossing
 > Nog niet klaar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0NzEzMTU2LDEyNDMwOTU3MDcsMTkzMj
-Q4NTc4Niw1ODgyNzc1NzldfQ==
+eyJoaXN0b3J5IjpbLTQxNzcwNjU1LDI5NDcxMzE1NiwxMjQzMD
+k1NzA3LDE5MzI0ODU3ODYsNTg4Mjc3NTc5XX0=
 -->
