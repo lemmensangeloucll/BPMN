@@ -1,4 +1,6 @@
-# Oefeningen
+# Les 6 (Level 2)
+## Oefening van vorige les thuis afmaken
+
 ## Oefening 1
 
 Ik ben aan het studeren. Wanneer ik hiermee klaar ben controleer ik al mijn nieuwe emails.
@@ -33,6 +35,6 @@ Business procesinformatie:
 ### Oplossing
 > Nog niet klaar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzA5NTcwNywxOTMyNDg1Nzg2LDU4OD
-I3NzU3OV19
+eyJoaXN0b3J5IjpbMjk0NzEzMTU2LDEyNDMwOTU3MDcsMTkzMj
+Q4NTc4Niw1ODgyNzc1NzldfQ==
 -->
