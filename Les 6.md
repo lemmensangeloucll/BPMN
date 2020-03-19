@@ -22,10 +22,12 @@ Teken het procesdiagramma voor de terugbetaling van onkosten gemaakt door werkne
 Business procesinformatie:
 Nadat een onkostennota binnenkomt, moet een nieuw 'account' worden gecreëerd als de werknemer nog geen account heeft.
 - Bij het binnenkomen van de onkostennota's wordt een selectie gemaakt:
-  - 
+  - Alle onkostennota's klaeiner dan 200$ worden automatisch goedgekeurd.
+  - Alle onkostennota's groter of gelijk aan 200$ hebben goedkeuring nodig van de overste. 
+Indien de leidinggeve
 ### Oplossing
 > Nog niet klaar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NDQ4ODA3LDE5MzI0ODU3ODYsNTg4Mj
-c3NTc5XX0=
+eyJoaXN0b3J5IjpbMTIxODUzMjcwMywxOTMyNDg1Nzg2LDU4OD
+I3NzU3OV19
 -->
