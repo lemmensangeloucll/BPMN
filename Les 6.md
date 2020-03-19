@@ -20,10 +20,12 @@ Leg het volgende bestellings-proces model uit in woorden.
 ## Oefening 4
 Teken het procesdiagramma voor de terugbetaling van onkosten gemaakt door werknemers (bijvoorbeeld het kopen van kantoorbenodigdheden)
 Business procesinformatie:
-
+Nadat een onkostennota binnenkomt, moet een nieuw 'account' worden gecreëerd als de werknemer nog geen account heeft.
+- Bij het binnenkomen van de onkostennota's wordt een selectie gemaakt:
+  - 
 ### Oplossing
 > Nog niet klaar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Njg0NjIwLDE5MzI0ODU3ODYsNTg4Mj
+eyJoaXN0b3J5IjpbNDI0NDQ4ODA3LDE5MzI0ODU3ODYsNTg4Mj
 c3NTc5XX0=
 -->
