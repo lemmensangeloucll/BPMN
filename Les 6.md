@@ -24,10 +24,13 @@ Nadat een onkostennota binnenkomt, moet een nieuw 'account' worden gecreëerd al
 - Bij het binnenkomen van de onkostennota's wordt een selectie gemaakt:
   - Alle onkostennota's klaeiner dan 200$ worden automatisch goedgekeurd.
   - Alle onkostennota's groter of gelijk aan 200$ hebben goedkeuring nodig van de overste. 
-Indien de leidinggeve
+
+Indien de leidinggevende geen goedkeuring geeft moet de werknemer hierover een bericht (email) krijgen.
+De terugbetaling van de onkostennota's gaat rechtstreeks naar de bankrekening van de werknemer.
+Als binnen de 7 (zeven) dagen nog niets definitief (geen beslissing) is gebeurd, dan moet de werknemer een ' goedkeuring in b
 ### Oplossing
 > Nog niet klaar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODUzMjcwMywxOTMyNDg1Nzg2LDU4OD
+eyJoaXN0b3J5IjpbMTM3MzA0NjcxNywxOTMyNDg1Nzg2LDU4OD
 I3NzU3OV19
 -->
