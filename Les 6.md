@@ -16,10 +16,14 @@ Leg het volgende bestellings-proces model uit in woorden.
 ### Proces
 ![BPMN model van oefening 3](https://github.com/lemmensangeloucll/BPMN/blob/master/img/oefening%203.png)
 ### Uitleg
->
+>Nog niet klaar.
 ## Oefening 4
-### 
+Teken het procesdiagramma voor de terugbetaling van onkosten gemaakt door werknemers (bijvoorbeeld het kopen van kantoorbenodigdheden)
+Business procesinformatie:
+
+### Oplossing
+> Nog niet klaar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE3MjMwMSwxOTMyNDg1Nzg2LDU4OD
-I3NzU3OV19
+eyJoaXN0b3J5IjpbLTQ1Njg0NjIwLDE5MzI0ODU3ODYsNTg4Mj
+c3NTc5XX0=
 -->
