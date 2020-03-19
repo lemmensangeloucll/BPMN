@@ -20,17 +20,18 @@ Leg het volgende bestellings-proces model uit in woorden.
 ## Oefening 4
 Teken het procesdiagramma voor de terugbetaling van onkosten gemaakt door werknemers (bijvoorbeeld het kopen van kantoorbenodigdheden)
 Business procesinformatie:
-Nadat een onkostennota binnenkomt, moet een nieuw 'account' worden gecreëerd als de werknemer nog geen account heeft.
+- Nadat een onkostennota binnenkomt, moet een nieuw 'account' worden gecreëerd als de werknemer nog geen account heeft.
 - Bij het binnenkomen van de onkostennota's wordt een selectie gemaakt:
   - Alle onkostennota's klaeiner dan 200$ worden automatisch goedgekeurd.
   - Alle onkostennota's groter of gelijk aan 200$ hebben goedkeuring nodig van de overste. 
 
-Indien de leidinggevende geen goedkeuring geeft moet de werknemer hierover een bericht (email) krijgen.
-De terugbetaling van de onkostennota's gaat rechtstreeks naar de bankrekening van de werknemer.
-Als binnen de 7 (zeven) dagen nog niets definitief (geen beslissing) is gebeurd, dan moet de werknemer een ' goedkeuring in b
+- Indien de leidinggevende geen goedkeuring geeft moet de werknemer hierover een bericht (email) krijgen.
+- De terugbetaling van de onkostennota's gaat rechtstreeks naar de bankrekening van de werknemer.
+- Als binnen de 7 (zeven) dagen nog niets definitief (geen beslissing) is gebeurd, dan moet de werknemer een ' goedkeuring in beraad'-emailbericht toegestuurd krijgen.
+- Als het verzoek tot terugbetaling niet beëindigd is binnen 30 (dertig) dagen, dan wordt het proces gestopt en de werknemer wordt hiervan op de hoogte gebracht
 ### Oplossing
 > Nog niet klaar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzA0NjcxNywxOTMyNDg1Nzg2LDU4OD
+eyJoaXN0b3J5IjpbMTY2MjEwMDI5OCwxOTMyNDg1Nzg2LDU4OD
 I3NzU3OV19
 -->
