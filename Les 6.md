@@ -2,15 +2,16 @@
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-## Oefe
+## Oefening 1
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Ik ben aan het studeren. Wanneer ik hiermee klaar ben controleer ik al mijn nieuwe emails.
 
-## Switch to another file
+## Oefening 2
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Ik ben aan het studeren. Telkens er een nieuwe email binnenkomt controleer ik deze onmiddelijk.
 
-## Rename a file
+---------
+## Oefening 3
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
@@ -137,5 +138,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU5NzM5MDVdfQ==
+eyJoaXN0b3J5IjpbOTk1OTQ3NzFdfQ==
 -->
