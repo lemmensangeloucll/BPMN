@@ -14,7 +14,8 @@ Bij ontvangst wordt nagegaan of de vragenlijst volledig beantwoord werd. Als dit
 
 Telkens als na vijf dagen nog geen antwoord ontvangen is, wordt een herinnering verzonden aan de eiser. Als er na nog eens vijf dagen nog steeds geen reactie is, volgt een nieuwe herinnering, enz. totdat de ingevulde vragenlijst is ontvangen.
 ### Oplossing
-![Oplossing Claim afhandel](https://github.com/lemmensangeloucll/BPMN/blob/master/img/7.2_claim.png)
+![Oplossing Claim afhandeling](https://github.com/lemmensangeloucll/BPMN/blob/master/img/7.2_claim.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTIxMzY2OCwtMTYwOTQxNjMwN119
+eyJoaXN0b3J5IjpbLTEzOTkyMzgyNDIsLTE2MDk0MTYzMDddfQ
+==
 -->
