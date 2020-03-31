@@ -5,8 +5,16 @@ Wanneer er een probleem is met mijn TV-ontvangst, dan vul ik een webformulier va
 ### Oplossing
 > NK
 ## Oefening 2
+**Claim-afhandling**
+In het kader van een schadeclaim-afhandeling is het soms nodig om een vragenlijst naar de eiser te sturen om aanvullende
+
+informatie te verzamelen. Van de eiser wordt verwacht dat hij de vragenlijst binnen vijf dagen retourneert.
+
+Bij ontvangst wordt nagegaan of de vragenlijst volledig beantwoord werd. Als dit niet het geval is, dan wordt opnieuw een (aangepaste) vragenlijst opgestuurd. Ook hiervoor geldt een antwoordtijd van 5 dagen, en ook dit antwoord wordt geëvalueerd tot het in orde is.
+
+Telkens als na vijf dagen nog geen antwoord ontvangen is, wordt een herinnering verzonden aan de eiser. Als er na nog eens vijf dagen nog steeds geen reactie is, volgt een nieuwe herinnering, enz. totdat de ingevulde vragenlijst is ontvangen.
 ### Oplossing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxODI0NDg5XX0=
+eyJoaXN0b3J5IjpbLTE2MDk0MTYzMDddfQ==
 -->
