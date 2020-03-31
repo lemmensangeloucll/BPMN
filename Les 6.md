@@ -33,8 +33,9 @@ Business procesinformatie:
 - Als het verzoek tot terugbetaling niet beëindigd is binnen 30 (dertig) dagen, dan wordt het proces gestopt en de werknemer wordt hiervan op de hoogte gebracht per email.
 - Het verzoek tot terugbetaling van de onkostennota moet dan opnieuw door de werknemer worden ingevoerd.
 ### Oplossing
-> Nog niet klaar.
+![Oplossing van oefening 4](https://github.com/lemmensangeloucll/BPMN/blob/master/img/oefening%204.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzcwNjU1LDI5NDcxMzE1NiwxMjQzMD
-k1NzA3LDE5MzI0ODU3ODYsNTg4Mjc3NTc5XX0=
+eyJoaXN0b3J5IjpbLTE4MDE3MzQyNDAsLTQxNzcwNjU1LDI5ND
+cxMzE1NiwxMjQzMDk1NzA3LDE5MzI0ODU3ODYsNTg4Mjc3NTc5
+XX0=
 -->
